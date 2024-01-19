@@ -1,0 +1,29 @@
+Hammam-Evan-proj3/:
+total 44
+-rw-r--r--. 1 myid 2279 Apr  3 17:56 Board.cpp
+-rw-r--r--. 1 myid 1615 Apr  3 22:22 Board.h
+drwxr-xr-x. 2 myid  240 Apr  3 22:24 examples
+-rw-r--r--. 1 myid  718 Apr  3 22:02 HumanPlayer.cpp
+-rw-r--r--. 1 myid 1340 Apr  3 21:57 HumanPlayer.h
+-rw-r--r--. 1 myid  761 Apr  1 11:44 Makefile
+-rw-r--r--. 1 myid  181 Apr  3 22:14 Player.cpp
+-rw-r--r--. 1 myid 1164 Apr  3 22:01 Player.h
+-rw-r--r--. 1 myid 2164 Apr  3 22:13 proj3.cpp
+-rw-r--r--. 1 myid  251 Apr  3 22:32 README
+-rw-r--r--. 1 myid    0 Apr  3 22:35 rec26913
+-rw-r--r--. 1 myid  649 Apr  3 22:22 SimpleComputerPlayer.cpp
+-rw-r--r--. 1 myid  921 Apr  3 21:57 SimpleComputerPlayer.h
+
+Hammam-Evan-proj3/examples:
+total 40
+-rw-r--r--. 1 myid 2542 Mar 28 22:34 example1.txt
+-rw-r--r--. 1 myid 1481 Mar 22 19:15 example2.txt
+-rw-r--r--. 1 myid 1794 Mar 22 19:15 example3.txt
+-rw-r--r--. 1 myid 3148 Mar 22 19:16 example4.txt
+-rw-r--r--. 1 myid 6647 Mar 24 18:33 example5.txt
+-rw-r--r--. 1 myid   41 Apr  3 18:07 input1.txt
+-rw-r--r--. 1 myid  348 Apr  3 18:12 input2.txt
+-rw-r--r--. 1 myid   44 Apr  3 18:09 input3.txt
+-rw-r--r--. 1 myid    0 Apr  3 18:15 input4.txt
+-rw-r--r--. 1 myid   96 Apr  3 14:49 input5.txt
+/home/myid/ehh67855/cs1730/Hammam-Evan-proj3/:/home/myid/csci-1730
